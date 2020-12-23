@@ -1,3 +1,1 @@
-# rounak-breaking-bad
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rounak-breaking-bad)
+Assignment for a react based web-app which fetches the information from breaking bad api : https://breakingbadapi.com/documentation
